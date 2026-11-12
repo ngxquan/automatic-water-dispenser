@@ -25,7 +25,7 @@ How is works?
 - Pump Activation & Calibration: When the sensor voltage falls below $V_{ref}$, the LM393 switches its output state to activate the water pump. Turning the potentiometer changes $V_{ref}$, allowing precise calibration of the sensing range.
 
 Schematic:
-![schematic](./images/schematic.jpg)
+![schematic](./images/schematic.png)
 
 Prototype on breadboard:
 ![prototype images](./images/prototypeonbreadboard.jpg)
