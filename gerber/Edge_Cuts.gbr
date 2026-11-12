@@ -1,0 +1,20 @@
+%TF.GenerationSoftware,RoboDIB,PCB Editor,1.0*%
+%TF.CreationDate,2026-11-12T19:07:11.481320123*%
+%TF.ProjectId,M_ch__i_u_Khi_n_B_m_B_ng_Relay_T__C_m_Bi_n_H_ng_Ngo_i,6af59a8c1f8bfd3f61b84741,1.0*%
+%TF.FileFunction,Profile,NP*%
+%TF.FilePolarity,Positive*%
+%TF.SameCoordinates,Original*%
+%FSLAX46Y46*%
+%MOMM*%
+G04 #@! TF.GenerationSoftware,RoboDIB,1.0*
+%TA.AperFunction,Profile*%
+%ADD10C,0.100000*%
+%TD*%
+G01*
+D10*
+X0Y0D02*
+X90000000Y0D01*
+X90000000Y-65000000D01*
+X0Y-65000000D01*
+X0Y0D01*
+M02*
